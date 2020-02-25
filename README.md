@@ -1,1 +1,1 @@
-# Aulas
+# Aulas e exercicios em Python.
